@@ -1,0 +1,28 @@
+
+
+
+
+body
+{
+
+background-image: url(fall.jpg); /* my pic */
+background-repeat: no-repeat; /* not repeating */ 
+background-size: cover; /* image to cover the entire background */
+}
+
+button
+{
+    
+    color: rgb(16, 13, 13); 
+    font-size: 29px; line-height:29px; 
+    padding: 20px; 
+    border-radius: 25px; 
+    border: 2px solid rgb(153, 62, 22); 
+    font-family: Georgia, serif; 
+  
+    font-style: italic; 
+  
+    background-image: linear-gradient(rgb(152, 86, 51) , rgb(185, 185, 47));
+    box-shadow: rgb(0, 0, 0) 10px 19px 15px 5px; 
+
+

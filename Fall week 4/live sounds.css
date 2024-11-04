@@ -1,0 +1,23 @@
+body
+{
+background-image:url(fall.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+button
+{
+    align-self: center;
+    color: black;
+    font-size: 29px;
+    line-height: 29px;
+    padding:20px;
+    border: 2px solid lightslategray;
+    border-radius: 25px;
+    font-family: Georgia, serif;
+    font-style: italic;
+    text-align: center;
+    background-image: linear-gradient(brown, rgb(86, 105, 86));
+    box-shadow: rgb(50, 48, 48) 20px 20px 20px 20px;
+ 
+}
